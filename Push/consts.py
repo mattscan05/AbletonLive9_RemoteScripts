@@ -196,7 +196,15 @@ MUSICAL_MODES = ['Major',
   5,
   6,
   8,
-  10]]
+  10],
+  'Arabian',
+  [0,
+   2,
+   4,
+   5,
+   6,
+   8,
+   10]]
 MIN_OFF_THRESHOLD = 10
 MAX_OFF_THRESHOLD = 370
 MIN_ON_THRESHOLD = 10
